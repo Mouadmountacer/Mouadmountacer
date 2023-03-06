@@ -19,7 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mouad367474501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mouad367474501" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mouad-mountacer-8404a2150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouad-mountacer-8404a2150/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouad-mountacer-8404a2150/" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouad-mountacer-8404a2150/" height="30" width="40" /></a>
 <a href="https://fb.com/mouad mountacer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouad mountacer" height="30" width="40" /></a>
 <a href="https://instagram.com/mouad_mountacer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouad_mountacer" height="30" width="40" /></a>
 </p>
